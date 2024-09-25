@@ -37,7 +37,8 @@ Uma aplicação em Python para buscar computadores no Active Directory de forma 
 
 Ao iniciar, você verá algo como:
 
-Digite seu usuário: johndoe Senha: **********
+Digite seu usuário: Luan 
+Senha: **********
 Digite o filtro de pesquisa (ex: NOT-), ou 'sair' para encerrar: 
 NOT- Computadores encontrados: 
 NOT-001 
